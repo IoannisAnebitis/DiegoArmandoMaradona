@@ -1,0 +1,32 @@
+body    {
+            background-color: #6699ff;
+            color: white;
+        }
+
+h1, h4	{
+			text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: #6699ff;
+  color: white;
+  padding: 2px;
+  text-align: center;
+}
+
+p{
+	text-indent: 50px;
+}
